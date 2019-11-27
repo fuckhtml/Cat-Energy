@@ -1,2 +1,5 @@
 # Cat-Energy
-Adaptive website made on Gulp and html-css-preprocessors | HTML Academy Learning Project
+
+**Учебный проект от HTML Академии**
+
+Адаптивный веб-сайт, написанный с помощью сборки Gulp и html-css-препроцессорах.
